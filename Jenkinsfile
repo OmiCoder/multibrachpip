@@ -3,7 +3,7 @@ pipeline{
 	stages{
 		stage('master'){
 			steps{
-				sh 'echo "this is sprint1"'
+				sh 'echo "done this is sprint1"'
 			}
 		}
 
